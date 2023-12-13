@@ -1,4 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700;900&display=swap");
+
+@import url("https://cdn.web-fonts.ge/fonts/bpg-nino-mtavruli/css/bpg-nino-mtavruli.min.css");
+
+@import url("https://cdn.web-fonts.ge/fonts/bpg-square/css/bpg-square.min.css");
+
 h2 {
     color: rgb(205, 130, 130);
     font-size: 56px;
+    font-family: "Roboto", sans-serif;
+    color: #7e8898;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 100;
+    line-height: 70px;
+    width: 50px;
+}
+
+h3 {
+    color: rgb(205, 130, 130);
+    font-size: 56px;
+}
+
+h4 {
+    font-size: 64px;
+    font-family: "BPG Nino Mtavruli", sans-serif;
+}
+
+h5 {
+    font-size: 64px;
+    font-family: "BPG Square", sans-serif;
+}
+
+.container {
+    width: 1180px;
+    margin: 0 auto;
+    height: 600px;
+}
+
+
+.s-3  div {
+
 }
